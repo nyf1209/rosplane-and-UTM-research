@@ -1,0 +1,8 @@
+prefix=/home/yifengn2/catkin_ws3/devel
+
+Name: rosflight_firmware
+Description: Description of rosflight_firmware
+Version: 1.3.1
+Cflags: -I/home/yifengn2/catkin_ws3/src/rosflight/rosflight_firmware/include -I/home/yifengn2/catkin_ws3/src/rosflight/rosflight_firmware/firmware/include/ -I/home/yifengn2/catkin_ws3/src/rosflight/rosflight_firmware/firmware/lib/ -I/home/yifengn2/catkin_ws3/src/rosflight/rosflight_firmware/firmware/comms/ -I/home/yifengn2/catkin_ws3/src/rosflight/rosflight_firmware/firmware/test/
+Libs: -L${prefix}/lib -lrosflight_firmware -lrosflight_udp_board -lrosflight_test
+Requires: roscpp

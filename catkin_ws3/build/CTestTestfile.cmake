@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /home/yifengn2/catkin_ws3/src
+# Build directory: /home/yifengn2/catkin_ws3/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(gtest)
+subdirs(hector_quadrotor/hector_quadrotor_description)
+subdirs(hector_gazebo/hector_sensors_gazebo)
+subdirs(racecar/racecar)
+subdirs(racecar_gazebo/racecar_control)
+subdirs(racecar_gazebo/racecar_description)
+subdirs(hector_quadrotor/hector_uav_msgs)
+subdirs(rosflight/rosflight_msgs)
+subdirs(rosplane/rosplane_msgs)
+subdirs(Cymulator/cym_device)
+subdirs(Cymulator/cym_gazebo)
+subdirs(Decawave/ROS/cyphyhouse/cyphy_car_mpc)
+subdirs(hector_quadrotor/hector_quadrotor_model)
+subdirs(rosflight/rosflight_firmware)
+subdirs(Cymulator/cym_marker)
+subdirs(racecar/ackermann_cmd_mux)
+subdirs(rosplane/rosplane)
+subdirs(hector_gazebo/hector_gazebo_plugins)
+subdirs(hector_quadrotor/hector_quadrotor_gazebo_plugins)
+subdirs(hector_quadrotor/hector_quadrotor_pose_estimation)
+subdirs(rosflight/rosflight)
+subdirs(hector_quadrotor/hector_quadrotor_interface)
+subdirs(hector_quadrotor/hector_quadrotor_actions)
+subdirs(hector_quadrotor/hector_quadrotor_controllers)
+subdirs(hector_quadrotor/hector_quadrotor_teleop)
+subdirs(hector_quadrotor/hector_quadrotor_controller_gazebo)
+subdirs(hector_quadrotor/hector_quadrotor_gazebo)
+subdirs(rosflight/rosflight_sim)
+subdirs(rosflight/rosflight_utils)
+subdirs(rosflight_plugins)
+subdirs(rosplane/rosplane_sim)

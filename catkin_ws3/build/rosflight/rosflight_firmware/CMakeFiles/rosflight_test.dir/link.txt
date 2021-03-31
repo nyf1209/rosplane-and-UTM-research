@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11  -shared -Wl,-soname,librosflight_test.so -o /home/yifengn2/catkin_ws3/devel/lib/librosflight_test.so CMakeFiles/rosflight_test.dir/firmware/test/test_board.cpp.o /home/yifengn2/catkin_ws3/devel/lib/librosflight_firmware.so -Wl,-rpath,/home/yifengn2/catkin_ws3/devel/lib: 

@@ -1,0 +1,7 @@
+set(cym_gazebo_SETUP_PY_SETUP_MODULE "setuptools")
+set(cym_gazebo_SETUP_PY_VERSION "0.0.0")
+set(cym_gazebo_SETUP_PY_SCRIPTS "")
+set(cym_gazebo_SETUP_PY_PACKAGES "cym_gazebo")
+set(cym_gazebo_SETUP_PY_PACKAGE_DIRS "src/cym_gazebo")
+set(cym_gazebo_SETUP_PY_MODULES "")
+set(cym_gazebo_SETUP_PY_MODULE_DIRS "")

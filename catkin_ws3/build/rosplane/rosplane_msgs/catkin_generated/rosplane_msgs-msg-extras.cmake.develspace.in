@@ -1,0 +1,2 @@
+set(rosplane_msgs_MESSAGE_FILES "/home/yifengn2/catkin_ws3/src/rosplane/rosplane_msgs/msg/Controller_Commands.msg;/home/yifengn2/catkin_ws3/src/rosplane/rosplane_msgs/msg/Current_Path.msg;/home/yifengn2/catkin_ws3/src/rosplane/rosplane_msgs/msg/Waypoint.msg;/home/yifengn2/catkin_ws3/src/rosplane/rosplane_msgs/msg/Controller_Internals.msg;/home/yifengn2/catkin_ws3/src/rosplane/rosplane_msgs/msg/State.msg")
+set(rosplane_msgs_SERVICE_FILES "")
